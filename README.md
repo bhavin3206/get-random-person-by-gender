@@ -22,17 +22,8 @@ python main.py
 ## Features
 
 - Generate random person images.
-- Filter images by gender (if implemented).
-
-## Contributing
-
-Contributions to improve the project are welcome. Please feel free to fork the repository and submit pull requests.
+- Filter images by gender.
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Thanks to the `thispersondoesnotexist` API for providing the functionality to generate random person images.
-```
