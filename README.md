@@ -1,7 +1,7 @@
 
 # Get Random Person By Gender
 
-This Python project generates random person images based on gender, utilizing the `thispersondoesnotexist` API. It's a simple, yet effective tool for generating images for various applications, such as testing, placeholders in UI designs, or any scenario where random user images are needed.
+This Python project generates random person images based on gender, utilizing the `thispersondoesnotexist` API. It's a simple, yet effective tool for generating images for various applications, such as testing, placeholders in UI designs, or any scenario where random user images are needed. Here I use opencv to guess gender of photos.
 
 ## Installation
 
@@ -27,3 +27,7 @@ python main.py
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+##Contact
+please reach out to me at bhavinpatel99987@gmail.com.
+
