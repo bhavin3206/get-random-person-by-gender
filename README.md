@@ -1,6 +1,4 @@
-Creating a `README.md` file for your GitHub project involves summarizing the project, explaining its functionality, installation process, usage, and any other relevant information. Based on the file names and structure you provided from the `get-random-person-by-gender-master` project, I'll draft a simple README template for you. You might need to adjust or add more details specific to your project's requirements and functionalities.
 
-```markdown
 # Get Random Person By Gender
 
 This Python project generates random person images based on gender, utilizing the `thispersondoesnotexist` API. It's a simple, yet effective tool for generating images for various applications, such as testing, placeholders in UI designs, or any scenario where random user images are needed.
